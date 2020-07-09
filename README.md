@@ -12,6 +12,6 @@ Myself Abhiram R Pai, I am a 3rd Year Btech Computer Science Student @ Muthoot I
 
 - 🌱 I’m currently learning Xamarin,TypeScript
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [Twitter]https://twitter.com/pai_abhiram),[Instagram](https://www.instagram.com/pai_026/)
+- 📫 How to reach me: [Twitter](https://twitter.com/pai_abhiram),[Instagram](https://www.instagram.com/pai_026/)
 - ⚡ Fun fact: The first oranges weren’t orange 😂 #factDay1
 
