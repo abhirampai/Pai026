@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Welcome](welcome.gif)
+![Welcome](https://github.com/Pai026/Pai026/blob/master/welcome.gif)
 
 **Pai026 AKA Abhiram Pai😁😂**
 
