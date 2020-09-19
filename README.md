@@ -4,7 +4,7 @@
 **Pai026 AKA Abhiram Pai😁😂**
 
 
-Myself Abhiram R Pai, I am a 3rd Year Btech Computer Science Student @ Muthoot Institute Of Technology And Science. I currently live in Ernakulam. I love coding,gaming...
+Myself Abhiram R Pai, I am a 4th Year Btech Computer Science Student @ Muthoot Institute Of Technology And Science. I currently live in Ernakulam. I love coding,gaming...
 
 - 🏫 Experience-
       Has Been to 6 different schools  in 4 different districts of kerala 😎✌
