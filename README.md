@@ -10,7 +10,7 @@ Myself Abhiram R Pai, I am a 3rd Year Btech Computer Science Student @ Muthoot I
       Has Been to 6 different schools  in 4 different districts of kerala 😎✌
 
 
-- 🌱 I’m currently learning Xamarin,TypeScript and Arduino Programing
+- 🌱 I’m currently learning Xamarin
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [Twitter](https://twitter.com/pai_abhiram),[Instagram](https://www.instagram.com/pai_026/),[Linkedin](https://www.linkedin.com/in/abhiram-r-pai-bb3288170/)
 - ⚡ Fun fact: The average person walks the equivalent of five times around the world in their lifetime. 
