@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Welcome](https://github.com/Pai026/Pai026/blob/master/welcome.gif)
 
-**Pai026 AKA Abhiram Pai😁😂**
+**Abhiram Pai**
 
 
 Myself Abhiram R Pai, I am a 4th Year Btech Computer Science Student @ Muthoot Institute Of Technology And Science. I currently live in Ernakulam. I love coding,gaming...
