@@ -7,7 +7,13 @@
 Myself Abhiram R Pai, I am a 4th Year Btech Computer Science Student @ Muthoot Institute Of Technology And Science. I currently live in Ernakulam. I love coding,gaming...
 
 - 🏫 Experience-
-      Has Been to 6 different schools  in 4 different districts of kerala 😎✌
+      College - Muthoot Institute Of Technology And Science (2017-)
+      Schools - SBOA Public Sr Sec School (2012-2017)
+               Amrita Vidyalaya (2009-2012)
+               Rani Public School (2008-2009)
+               Holy Cross (2007-2008)
+               Talent Public School (2004-2007)
+               Blue Bells (2003-2004)
 
 
 - 🌱 I’m currently learning Xamarin
