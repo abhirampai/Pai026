@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Pai026/Pai026.svg)](http://hits.dwyl.com/Pai026/Pai026)  <a href="https://github.com/Pai026"><img src="https://img.shields.io/github/followers/Pai026?label=Follow&style=social"></a>
+<a href="https://github.com/Pai026"><img src="https://img.shields.io/github/followers/Pai026?label=Follow&style=social"></a>
 
 ### Hi there 👋
 ![Welcome](https://github.com/Pai026/Pai026/blob/master/welcome.gif)
