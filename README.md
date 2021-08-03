@@ -6,7 +6,7 @@
 **Abhiram Pai**
 
 
-- Software Engineer @BigBinary.<br/>
+- Software Engineer [@bigbinary](https://github.com/bigbinary).<br/>
 - I currently live in Ernakulam. I love coding,gaming...
 
 - 🏫 Experience- <br/>
