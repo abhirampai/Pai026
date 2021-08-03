@@ -1,15 +1,15 @@
-<a href="https://github.com/Pai026"><img src="https://img.shields.io/github/followers/Pai026?label=Follow&style=social"></a>
+<a href="https://github.com/abhirampai"><img src="https://img.shields.io/github/followers/abhirampai?label=Follow&style=social"></a>
 
 ### Hi there 👋
-![Welcome](https://github.com/Pai026/Pai026/blob/master/welcome.gif)
+![Welcome](https://github.com/abhirampai/abhirampai/blob/master/welcome.gif)
 
 **Abhiram Pai**
 
 
-Myself Abhiram R Pai, I am a 4th Year Btech Computer Science Student @ Muthoot Institute Of Technology And Science. I currently live in Ernakulam. I love coding,gaming...
+Myself Abhiram R Pai, Software Engineer @BigBinary. I currently live in Ernakulam. I love coding,gaming...
 
 - 🏫 Experience-
-      College - Muthoot Institute Of Technology And Science (2017-)
+      College - Muthoot Institute Of Technology And Science (2017-2021)
       Schools - SBOA Public Sr Sec School (2012-2017)
                Amrita Vidyalaya (2009-2012)
                Rani Public School (2008-2009)
@@ -19,7 +19,7 @@ Myself Abhiram R Pai, I am a 4th Year Btech Computer Science Student @ Muthoot I
 
 
 <!-- - 🌱 I’m currently learning Xamarin -->
-- 👯 I’m looking to collaborate on open source projects
+<!-- - 👯 I’m looking to collaborate on open source projects -->
 - 📫 How to reach me: [Twitter](https://twitter.com/pai_abhiram),[Instagram](https://www.instagram.com/abhiram_pai/),[Linkedin](https://www.linkedin.com/in/abhiram-r-pai-bb3288170/), [Gmail](mailto:"abhirampai1999@gmail.com)
 
 
