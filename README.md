@@ -26,3 +26,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhirampai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhirampai&theme=dark)](https://git.io/streak-stats)
