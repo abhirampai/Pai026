@@ -27,4 +27,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abhirampai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhirampai&theme=dark)](https://git.io/streak-stats)
-[![Abhiram's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhirampai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhiram's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhirampai&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
