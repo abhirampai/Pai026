@@ -3,8 +3,6 @@
 ### Hi there 👋
 ![Welcome](https://github.com/abhirampai/abhirampai/blob/master/welcome.gif)
 
-**Abhiram Pai**
-
 
 - Software Engineer [@bigbinary](https://github.com/bigbinary).<br/>
 - I currently live in Ernakulam. I love coding,gaming...
