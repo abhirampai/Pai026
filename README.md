@@ -22,8 +22,3 @@
 <!-- - 🌱 I’m currently learning Xamarin -->
 <!-- - 👯 I’m looking to collaborate on open source projects -->
 - 📫 How to reach me: [Twitter](https://twitter.com/pai_abhiram),[Instagram](https://www.instagram.com/abhiram_pai/),[Linkedin](https://www.linkedin.com/in/abhiram-r-pai-bb3288170/), [Gmail](mailto:"abhirampai1999@gmail.com)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhirampai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhirampai&theme=dark)](https://git.io/streak-stats)
