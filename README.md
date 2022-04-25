@@ -5,7 +5,7 @@
 
 
 - Software Engineer [@bigbinary](https://github.com/bigbinary).<br/>
-- I currently live in Ernakulam. I love coding,gaming...
+<!-- - I currently live in Ernakulam. I love coding,gaming...
 
 - 🏫 Experience- <br/>
 - College <br/>- Muthoot Institute Of Technology And Science (2017-2021)<br/>
@@ -14,8 +14,7 @@
                - Rani Public School (2008-2009)<br/>
                - Holy Cross (2007-2008)<br/>
                - Talent Public School (2004-2007)<br/>
-               - Blue Bells (2003-2004)<br/>
-
+               - Blue Bells (2003-2004)<br/> -->
 
 <!-- - 🌱 I’m currently learning Xamarin -->
 <!-- - 👯 I’m looking to collaborate on open source projects -->
