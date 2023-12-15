@@ -19,4 +19,4 @@
 <!-- - 🌱 I’m currently learning Xamarin -->
 <!-- - 👯 I’m looking to collaborate on open source projects -->
 
-- 📫 How to reach me: [Gmail](mailto:"abhirampai1999@gmail.com), [Linkedin](https://www.linkedin.com/in/abhirampai/), [Instagram](https://www.instagram.com/abhiram_pai/), [Twitter](https://twitter.com/pai_abhiram)
+- 📫 How to reach me: [Gmail](mailto:abhirampai1999@gmail.com), [Linkedin](https://www.linkedin.com/in/abhirampai/), [Instagram](https://www.instagram.com/abhiram_pai/), [Twitter](https://twitter.com/pai_abhiram)
