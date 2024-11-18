@@ -19,4 +19,6 @@
 <!-- - 🌱 I’m currently learning Xamarin -->
 <!-- - 👯 I’m looking to collaborate on open source projects -->
 
+Checkout my [blogs](https://abhirampai.com)
+
 - 📫 How to reach me: [Gmail](mailto:abhirampai1999@gmail.com), [Linkedin](https://www.linkedin.com/in/abhirampai/), [Twitter](https://twitter.com/pai_abhiram)
